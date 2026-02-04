@@ -2,7 +2,7 @@
 
 Evernight Vista Task Manager based on Mission Center.It add some locale translations and using clang and LLVM for compilation optimization.
 
-# Mission Center
+# Evernight Vista Task Manager (Based on Mission Center)
 
 Monitor your CPU, Memory, Disk, Network and GPU usage with [Mission Center](https://missioncenter.io/)
 
