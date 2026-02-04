@@ -47,6 +47,7 @@ themes).
 [AppImage (ARM64)](https://gitlab.com/mission-center-devs/mission-center/-/jobs/10144675636/artifacts/raw/MissionCenter_v1.0.2-aarch64.AppImage)  
 [Flatpak](https://flathub.org/apps/io.missioncenter.MissionCenter)  
 [Snap](https://snapcraft.io/mission-center)
+[RPM Edition](https://download.copr.fedorainfracloud.org/results/march7thdev/evernight-vista-gear-updates/fedora-43-x86_64/10083026-evernight-task-manager/evernight-task-manager-1.1.0-1.fc43.x86_64.rpm)
 
 Also available from https://portable-linux-apps.github.io/apps/mission-center.html
 
@@ -59,6 +60,7 @@ Installed by default in:
 * [Bazzite](https://bazzite.gg)
 * [Bluefin](https://projectbluefin.io/)
 * [DeLinuxCo](https://www.delinuxco.com/)
+* [Evernight Vista 43.1 or later](https://evernightfedora.github.io/evernight-vista)
 
 Source code is available at [GitLab](https://gitlab.com/mission-center-devs/mission-center)
 
@@ -121,7 +123,7 @@ Source code is available at [GitLab](https://gitlab.com/mission-center-devs/miss
 
 **Build instructions**
 
-Note: A native build requires, at least, GTK 4.20 and libadwaita 1.8. That means ArchLinux >= 20251001, Fedora >= 43,
+Note: A native build requires, at least, GTK 4.20 and libadwaita 1.8. That means ArchLinux >= 20251001, Fedora >= 43, Evernight Vista >= 43,
 Ubuntu >= 25.10.
 
 ```bash
