@@ -46,7 +46,7 @@ themes).
 [AppImage (x86_64)](https://gitlab.com/mission-center-devs/mission-center/-/jobs/10144675634/artifacts/raw/MissionCenter_v1.0.2-x86_64.AppImage)  
 [AppImage (ARM64)](https://gitlab.com/mission-center-devs/mission-center/-/jobs/10144675636/artifacts/raw/MissionCenter_v1.0.2-aarch64.AppImage)  
 [Flatpak](https://flathub.org/apps/io.missioncenter.MissionCenter)  
-[Snap](https://snapcraft.io/mission-center)
+[Snap](https://snapcraft.io/mission-center)  
 [RPM Edition](https://download.copr.fedorainfracloud.org/results/march7thdev/evernight-vista-gear-updates/fedora-43-x86_64/10083026-evernight-task-manager/evernight-task-manager-1.1.0-1.fc43.x86_64.rpm)
 
 Also available from https://portable-linux-apps.github.io/apps/mission-center.html
