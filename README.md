@@ -1,5 +1,7 @@
 <img align="left"  src="https://gitlab.com/mission-center-devs/mission-center/-/raw/main/data/icons/hicolor/scalable/apps/io.missioncenter.MissionCenter.svg" alt="drawing" width="64"/> 
 
+Evernight Vista Task Manager based on Mission Center.It add some locale translations and using clang and LLVM for compilation optimization.
+
 # Mission Center
 
 Monitor your CPU, Memory, Disk, Network and GPU usage with [Mission Center](https://missioncenter.io/)
