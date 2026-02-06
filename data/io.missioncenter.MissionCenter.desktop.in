@@ -7,3 +7,4 @@ Type=Application
 Categories=GTK;System;Monitor;
 StartupNotify=true
 Keywords=Task manager;Resource monitor;System monitor;Processor;Processes;Performance monitor;CPU;GPU;Disc;Disk;Memory;Network;Utilisation;Utilization;Task Manager;taskmanager;taskmgr
+X-KDE-Shortcuts=Ctrl+Shift+Esc
